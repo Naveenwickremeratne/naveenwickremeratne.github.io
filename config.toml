@@ -1,0 +1,11 @@
+relativeURLs = true
+title = "Naveen Wickremeratne"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+
+[params]
+    shortbio = "PhD Candidate in Economics, Monash University"
+    logo = "Naveen_headshot.png" 
+    
